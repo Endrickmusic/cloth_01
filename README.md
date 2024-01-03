@@ -1,3 +1,3 @@
-# React Three Fiber + Vite
+# Cloth with React Three Fiber + Vite
 
-Easy Template for React Three Fiber
+Trying a cloth-like Object with React Three Fiber
